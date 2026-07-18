@@ -24,11 +24,12 @@ EMA Finance Agent automates invoice processing, policy validation, approval work
 - Python
 - FastAPI
 - LangGraph
-- PostgreSQL
 - React
 - Next.js
 - TypeScript
+- PostgreSQL
 - Docker
+- GitHub
 
 ---
 
@@ -73,9 +74,9 @@ Finance Agent
 
 ## Repository Scope
 
-This repository focuses on the Finance Agent demonstration.
+This repository contains the OpenAI Build Week submission for EMA Finance Agent.
 
-The complete multi-agent enterprise platform (EMA-OS) contains additional agents and enterprise capabilities that are outside the scope of this hackathon submission.
+EMA Finance Agent is a finance-focused implementation built on the broader EMA-OS architecture. It demonstrates enterprise AI workflows for invoice processing, approvals, governance, and auditability without including the complete EMA-OS platform.
 
 ---
 
